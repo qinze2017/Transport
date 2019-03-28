@@ -1,0 +1,1 @@
+{"geocoded_waypoints": [{"geocoder_status": "OK", "place_id": "ChIJzbkYtF1gwokRd4gBSnlveKw", "types": ["establishment", "point_of_interest", "university"]}, {"geocoder_status": "ZERO_RESULTS"}], "routes": [], "status": "NOT_FOUND"}

@@ -1,0 +1,1 @@
+{"geocoded_waypoints": [{"geocoder_status": "OK", "place_id": "ChIJV1guzZa0t0wRcOASkrOu1bA", "types": ["establishment", "local_government_office", "point_of_interest"]}, {"geocoder_status": "ZERO_RESULTS"}], "routes": [], "status": "NOT_FOUND"}

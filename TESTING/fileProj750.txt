@@ -1,0 +1,1 @@
+{"geocoded_waypoints": [{"geocoder_status": "OK", "partial_match": true, "place_id": "ChIJNxpa5zVLtkwRrmN6Yl02kE0", "types": ["establishment", "point_of_interest"]}, {"geocoder_status": "ZERO_RESULTS"}], "routes": [], "status": "NOT_FOUND"}

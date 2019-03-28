@@ -1,0 +1,1 @@
+{"geocoded_waypoints": [{"geocoder_status": "OK", "place_id": "ChIJ0d0Gtry0t0wRK3tpKU7nY_o", "types": ["bus_station", "establishment", "point_of_interest", "transit_station"]}, {"geocoder_status": "ZERO_RESULTS"}], "routes": [], "status": "NOT_FOUND"}
